@@ -1,0 +1,19 @@
+.top{
+  background-image: url('..img/landing.jpg');
+  height: 250px;
+}
+.breakfast{
+  background-image: url('..img/breakfast.jpg');
+  height: 150px;
+}
+.lunch{
+  background-image: url('..img/lunch.jpg');
+  height: 150px;
+}
+.dinner{
+  background-image: url('..img/dinner.jpg');
+  height: 150px
+}
+.container{
+  background-image: url('..img/foodsBg.jpg');
+}
