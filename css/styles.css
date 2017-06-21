@@ -1,19 +1,23 @@
 .top{
-  background-image: url('..img/landing.jpg');
+  background-image: url(landing.jpg);
   height: 250px;
 }
 .breakfast{
-  background-image: url('..img/breakfast.jpg');
+  background-image: url(breakfast.jpg);
   height: 150px;
 }
 .lunch{
-  background-image: url('..img/lunch.jpg');
+  background-image: url(lunch.jpg);
   height: 150px;
 }
 .dinner{
-  background-image: url('..img/dinner.jpg');
+  background-image: url(dinner.jpg);
   height: 150px
 }
-.container{
-  background-image: url('..img/foodsBg.jpg');
+.conta{
+  background-image: url(foodsBg.jpg);
+}
+.contain{
+  background-image: url(subscribe.jpg);
+  height: 150px;
 }
